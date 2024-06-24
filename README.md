@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Languages Necessary for FULL STACK DEVELOPMENT like JAVA,.NET etc.**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ketan-thombare142005/](https://www.linkedin.com/in/ketan-thombare142005/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/kthombare/](https://www.linkedin.com/in/kthombare/)
 
 - 💬 Ask me about **HTML,CSS,JavaScript and Basics of Python and MySQL.**
 
