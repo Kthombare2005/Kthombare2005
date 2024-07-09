@@ -44,6 +44,22 @@
 </a>
 </p>
 
+<h3 align="left">Achievements:</h3>
+<p align="left">
+  <a href="https://github.com/Kthombare2005?achievement=pair-extraordinaire&tab=achievements">
+    <img src="https://img.shields.io/badge/Pair-Extraordinaire-blue" alt="Pair Extraordinaire" />
+  </a>
+  <a href="https://github.com/Kthombare2005?achievement=yolo&tab=achievements">
+    <img src="https://img.shields.io/badge/YOLO-yellow" alt="YOLO" />
+  </a>
+  <a href="https://github.com/Kthombare2005?achievement=pull-shark&tab=achievements">
+    <img src="https://img.shields.io/badge/Pull-Shark-green" alt="Pull Shark" />
+  </a>
+  <a href="https://github.com/Kthombare2005?achievement=quickdraw&tab=achievements">
+    <img src="https://img.shields.io/badge/Quickdraw-red" alt="Quickdraw" />
+  </a>
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kthombare2005&show_icons=true&locale=en&layout=compact&theme=dark" alt="kthombare2005" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kthombare2005&show_icons=true&locale=en&theme=dark" alt="kthombare2005" /></p>
