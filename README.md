@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kthombare2005&label=Profile%20views&color=0e75b6&style=flat" alt="kthombare2005" /> </p>
 
-- 🌱 I’m currently learning **Languages Necessary for FULL STACK DEVELOPMENT like JAVA,.NET etc.**
+- 🌱 I’m currently learning **Languages Necessary for FULL STACK DEVELOPMENT like ReactJs,NextJs,ExpressJs etc.**
 
 - 👨‍💻 All of my projects are available at [My LinkedIn](https://www.linkedin.com/in/kthombare/)
 
