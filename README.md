@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ketan Thombare</h1>
 <h3 align="center">A passionate Engineering Student from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/man-sits-front-computer-screen-with-words-open-screen_1064589-155722.jpg">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kthombare2005&label=Profile%20views&color=0e75b6&style=flat" alt="kthombare2005" /> </p>
+
+
+
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/man-sits-front-computer-screen-with-words-open-screen_1064589-155722.jpg">
 
 - 🌱 I’m currently learning **Languages Necessary for FULL STACK DEVELOPMENT like ReactJs, NextJs, ExpressJs**
 
