@@ -5,7 +5,7 @@
 
 
 
-<img align="right" alt="Coding" width="400" height="500" src="https://img.freepik.com/premium-photo/man-sits-front-computer-screen-with-words-open-screen_1064589-155722.jpg">
+<img align="right" alt="Coding" width="400" height="350" src="https://img.freepik.com/premium-photo/man-sits-front-computer-screen-with-words-open-screen_1064589-155722.jpg">
 
 - 🌱 I’m currently learning **Languages Necessary for FULL STACK DEVELOPMENT like ReactJs, NextJs, ExpressJs**
 
