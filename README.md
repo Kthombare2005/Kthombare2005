@@ -73,3 +73,38 @@
 <p align="center">};</p>
 <p align="center">// I'm an Epic Object, UwU</p>
 
+---
+
+<h2 align="center">🚀 Projects 🚀</h2>
+
+### Inventory Management System
+- **Technologies:** Python, MySQL
+- **Description:** Created an inventory management system to track inventory levels, sales, and restocking. Features include adding, updating, and deleting products, and generating inventory reports. Implemented a user-friendly interface for easy navigation and data management.
+- **Timeline:** 25 days
+
+### Tic Tac Toe - Game
+- **Technologies:** HTML5, CSS3 (front-end) & JavaScript (back-end)
+- **Description:** Designed and built a Tic Tac Toe game with a responsive and visually appealing interface.
+- **Timeline:** 4 days
+
+### Music Player with Playlist Creation
+- **Technologies:** HTML5, CSS3 (front-end) & JavaScript (back-end)
+- **Description:** Developed a music player with playlist creation, featuring an intuitive interface for playing tracks, managing playlists, and exploring music libraries.
+- **Timeline:** 4 days
+
+### eCommerce Application (Amazon Clone - Frontend)
+- **Technologies:** HTML5, CSS3 (front-end) & JavaScript (back-end)
+- **Description:** Created a prototype eCommerce application inspired by Amazon, focusing on front-end development to replicate key features of Amazon's interface.
+- **Timeline:** 25 days
+
+### Income and Expense Tracker
+- **Technologies:** Flask, Streamlit, MongoDB
+- **Description:** Developed an Income and Expense Tracker application allowing users to securely log in, track income and expenses, manage financial data, and visualize income and expense patterns. Currently integrating AI to predict future expenditure patterns based on past data.
+- **Timeline:** 30 days
+
+---
+
+<h2 align="center">🏆 Achievements 🏆</h2>
+
+- Awarded first place in a highly competitive web mastery competition, showcasing expertise in web development and design.
+- Led a software development event at the college's Techno-Management Fest, enhancing my leadership, project management, and team collaboration skills.
