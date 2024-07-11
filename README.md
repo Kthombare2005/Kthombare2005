@@ -57,27 +57,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kthombare2005&theme=dark" alt="kthombare2005" /></p>
 
----
-<h2 align="center">✨ About Me ✨</h2>
 
-<div style="background-color:#2d2d2d; color:#ffffff; padding:20px; border-radius:5px;">
-    <pre id="codeBlock" style="font-family: 'Courier New', Courier, monospace; font-size:16px;">
-        <span style="color: #ffa07a;">const</span> <span style="color: #8be9fd;">Ketan</span> = {
-            <br>&nbsp;&nbsp;<span style="color: #50fa7b;">favouriteLanguage</span>: <span style="color: #f1fa8c;">"JavaScript/TypeScript"</span>,
-            <br>&nbsp;&nbsp;<span style="color: #50fa7b;">openedIssues</span>: <span style="color: #bd93f9;">79</span>,
-            <br>&nbsp;&nbsp;<span style="color: #50fa7b;">openedPullRequests</span>: <span style="color: #bd93f9;">71</span>,
-            <br>&nbsp;&nbsp;<span style="color: #50fa7b;">totalCommits</span>: <span style="color: #bd93f9;">1069</span>,
-            <br>&nbsp;&nbsp;<span style="color: #50fa7b;">stars</span>: <span style="color: #bd93f9;">10</span>,
-            <br>&nbsp;&nbsp;<span style="color: #50fa7b;">repositories</span>: {
-                <br>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #50fa7b;">created</span>: <span style="color: #bd93f9;">198</span>,
-                <br>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #50fa7b;">contributed</span>: <span style="color: #bd93f9;">13</span>,
-            <br>&nbsp;&nbsp;},
-        <br>};
-        <br>// I'm an Epic Object, UwU
-    </pre>
-</div>
-
----
 
 <h2 align="center">🚀 Projects 🚀</h2>
 
