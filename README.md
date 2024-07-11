@@ -60,20 +60,25 @@
 ---
 
 <h2 align="center">✨ About Me ✨</h2>
-```javascript
-const Ketan = {
-  favouriteLanguage: "JavaScript/TypeScript",
-  openedIssues: 79,
-  openedPullRequests: 71,
-  totalCommits: 1069,
-  stars: 10,
-  repositories: {
-    created: 198,
-    contributed: 13,
-  },
-};
 
-// I'm an Epic Object, UwU
+<div style="background-color:#2d2d2d; color:#ffffff; padding:20px; border-radius:5px;">
+    <pre style="font-family: 'Courier New', Courier, monospace; font-size:16px;">
+        <span style="color: #ffa07a;">const</span> <span style="color: #8be9fd;">Ketan</span> = {
+            <br>&nbsp;&nbsp;<span style="color: #50fa7b;">favouriteLanguage</span>: <span style="color: #f1fa8c;">"JavaScript/TypeScript"</span>,
+            <br>&nbsp;&nbsp;<span style="color: #50fa7b;">openedIssues</span>: <span style="color: #bd93f9;">79</span>,
+            <br>&nbsp;&nbsp;<span style="color: #50fa7b;">openedPullRequests</span>: <span style="color: #bd93f9;">71</span>,
+            <br>&nbsp;&nbsp;<span style="color: #50fa7b;">totalCommits</span>: <span style="color: #bd93f9;">1069</span>,
+            <br>&nbsp;&nbsp;<span style="color: #50fa7b;">stars</span>: <span style="color: #bd93f9;">10</span>,
+            <br>&nbsp;&nbsp;<span style="color: #50fa7b;">repositories</span>: {
+                <br>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #50fa7b;">created</span>: <span style="color: #bd93f9;">198</span>,
+                <br>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #50fa7b;">contributed</span>: <span style="color: #bd93f9;">13</span>,
+            <br>&nbsp;&nbsp;},
+        <br>};
+        <br>// I'm an Epic Object, UwU
+    </pre>
+</div>
+
+
 
 ---
 
