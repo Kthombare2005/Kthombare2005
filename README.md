@@ -60,18 +60,20 @@
 ---
 
 <h2 align="center">✨ About Me ✨</h2>
-<p align="center">const Ketan = {</p>
-<p align="center">  FavouriteLanguage: "JavaScript/TypeScript",</p>
-<p align="center">  OpenedIssues: 79,</p>
-<p align="center">  OpenedPullRequests: 71,</p>
-<p align="center">  TotalCommits: 1069,</p>
-<p align="center">  Stars: 10,</p>
-<p align="center">  Repositories: {</p>
-<p align="center">    Created: 198,</p>
-<p align="center">    Contributed: 13</p>
-<p align="center">  }</p>
-<p align="center">};</p>
-<p align="center">// I'm an Epic Object, UwU</p>
+```javascript
+const Ketan = {
+  favouriteLanguage: "JavaScript/TypeScript",
+  openedIssues: 79,
+  openedPullRequests: 71,
+  totalCommits: 1069,
+  stars: 10,
+  repositories: {
+    created: 198,
+    contributed: 13,
+  },
+};
+
+// I'm an Epic Object, UwU
 
 ---
 
