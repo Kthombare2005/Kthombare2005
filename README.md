@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="350" height="300" src="https://img.freepik.com/premium-photo/man-sits-front-computer-screen-with-words-open-screen_1064589-155722.jpg">
 
 - 🌱 I’m currently diving deep into **Full Stack Development** with a focus on **ReactJs, NextJs, and ExpressJs**.
-- 👨‍💻 Check out my projects on [LinkedIn](https://www.linkedin.com/in/kthombare/)
+- 👨‍💻 Check out my projects on [LinkedIn](https://www.linkedin.com/in/ketanthombare-tech/)
 - 💬 Ask me about **HTML, CSS, JavaScript, Basics of Python, and MySQL**.
 - 📫 Reach me at **ketancode14@gmail.com**
 - 💡 "Learning never exhausts the mind." - Leonardo da Vinci
