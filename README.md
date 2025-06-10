@@ -21,7 +21,7 @@
   <a href="https://twitter.com/@thombareketan" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@thombareketan" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/ketan-thombare" target="blank">
+  <a href="https://www.linkedin.com/in/ketanthombare-tech/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ketan thombare" height="30" width="40" />
   </a>
 </p>
