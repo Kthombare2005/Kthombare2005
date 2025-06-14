@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Engineering Student from India 🚀</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=kthombare2005&label=Profile%20views&color=0e75b6&style=flat" alt="kthombare2005" /> 
+  <img src="https://komarev.com/ghpvc/?username=Kthombare-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Kthombare-dev" /> 
 </p>
 
 <img align="right" alt="Coding" width="350" height="300" src="https://img.freepik.com/premium-photo/man-sits-front-computer-screen-with-words-open-screen_1064589-155722.jpg">
